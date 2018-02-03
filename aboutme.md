@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mim
-subtitle: Minha formação, atuação e interesses.     
+subtitle:     
 ---
 
 
