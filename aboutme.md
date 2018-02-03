@@ -4,7 +4,7 @@ title: Sobre mim
 subtitle: Minha formação, atuação e meus interesses
 ---
 
-
+<div style="text-align: justify">
 Meu nome é Diego Henrique Negretto, sou aluno de **Doutorado em Ciência da Computação e Matemática Computacional**, no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), São Carlos, Brasil. 
 
 Recebi meu título de **Mestre em Ciência da Computação**, no Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. 
@@ -35,5 +35,5 @@ Sou professor da FHO-Uniararas desde o ano de 2016. Leciono disciplinas nos curs
 ### Tecnologias que domino
 Atualmente, programo mais frequentemente nas linguagens **Python** e **R**, porém também tenho conhecimento sobre as linguagens **C/C++**, **C#** e **Java**, bem como, bancos de dados **MySQL** e **Oracle**. Tenho também interesse tecnologias para desenvolvimento web *front-end*: **HTML 5**, **CSS** (puro e *frameworks*) e **JavaScript** (puro e *frameworks*).
 
-
+</div>
 
