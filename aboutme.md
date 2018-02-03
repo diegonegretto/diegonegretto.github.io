@@ -31,6 +31,6 @@ Sou professor da FHO-Uniararas desde o ano de 2016. Leciono disciplinas nos curs
 
 ### Tecnologias que domino
 <div style="text-align: justify">
-Atualmente, programo mais frequentemente nas linguagens <strong>Python</strong> e <strong>R</strong>, porém também tenho conhecimento sobre as linguagens <b>C/C++</b>, <b>C#</b> e <b>Java</b>, bem como, bancos de dados <b>MySQL</b> e <b>Oracle</b>. Tenho também interesse tecnologias para desenvolvimento web <i>front-end</i>: <b>HTML 5</b>, <b>CSS</b> (puro e <i>frameworks</i>) e <b>JavaScript</b> (puro e <i>frameworks</i>).
+Atualmente, programo mais frequentemente nas linguagens <strong>Python</strong> e <strong>R</strong>, porém também tenho conhecimento sobre as linguagens <b>C/C++</b>, <b>C#</b> e <b>Java</b>, bem como, bancos de dados <b>MySQL</b> e <b>Oracle</b>. Também tenho interesse em tecnologias para desenvolvimento <i>web front-end</i>: <b>HTML 5</b>, <b>CSS</b> (puro e <i>frameworks</i>) e <b>JavaScript</b> (puro e <i>frameworks</i>).
 </div>
 
