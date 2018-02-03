@@ -23,14 +23,14 @@ subtitle: Algumas de minhas pesquisas
 
 - **NEGRETTO, D. H.**; ANTONIO, E. A. ; FERRO, M. ; BACCI, M. . Caracterização da Bioinformática no uso de Ontologia e barcode em Banco de Dados: Um Mapeamento Sistemático da Literatura. In: XXV Confresso de Iniciação Científica da Unesp, 2013, Rio Claro. Anais do XXV Confresso de Iniciação Científica da Unesp, 2013.
 
-- **NEGRETTO, D. H.**; BETIN, F. L. ; CONTINI, A. G. ; BOTEON, M. N. ; NASCIMENTO JUNIOR, O. S. . PENTEST: A BUSCA POR VUNERABILIDADES EM SISTEMAS COMPUTACIONAIS. In: 8º Congresso Científico FHO | UNIARARAS, 2013, Araras. Anais do 8º Congresso Científico FHO | UNIARARAS, 2013. p. 122-125.
+- **NEGRETTO, D. H.**; BETIN, F. L. ; CONTINI, A. G. ; BOTEON, M. N. ; NASCIMENTO JUNIOR, O. S. . PENTEST: A BUSCA POR VUNERABILIDADES EM SISTEMAS COMPUTACIONAIS. In: 8º Congresso Científico FHO-UNIARARAS, 2013, Araras. Anais do 8º Congresso Científico FHO | UNIARARAS, 2013. p. 122-125.
 
 ### 2012
 - **NEGRETTO, D. H.**; ANTONIO, E. A. ; BACCI, M. ; FERRO, M. . Aplicando Reengenharia para Remodelagem do Banco de Dados do Museu Virtual de Formigas Attini. In: XXIV Congresso de Iniciação Científica da Unesp, 2012, Rio Claro. Anais do XXIV Congresso de Iniciação Científica da Unesp, 2012.
 
 - **NEGRETTO, D. H.**; FERRO, M. ; BACCI, M. ; ANTONIO, E. A. . Uso do Drupal para Gerenciar Conteúdo Web de Acervos Biológicos. In: 20º Simpósio Internacional de Iniciação Científica - SIICUSP, 2012, São Paulo. Anais do 20º Simpósio Internacional de Iniciação Científica - SIICUSP, 2012.
 
-- **NEGRETTO, D. H.**; MARCHETTI, N. T. ; ANDRADE, R. G. . Aplicativo para Gerenciamento de Estacionamento utilizando Dispositivo Móvel com Sistema Android. In: 7º Congresso Científico FHO | UNIARARAS, 2012, Araras. Anais do 7º Congresso Científico FHO | UNIARARAS, 2012. p. 112-114.
+- **NEGRETTO, D. H.**; MARCHETTI, N. T. ; ANDRADE, R. G. . Aplicativo para Gerenciamento de Estacionamento utilizando Dispositivo Móvel com Sistema Android. In: 7º Congresso Científico FHO-UNIARARAS, 2012, Araras. Anais do 7º Congresso Científico FHO | UNIARARAS, 2012. p. 112-114.
 
 ### 2011
 - **NEGRETTO, D. H.**; MARCHETTI, N. T. ; ANTONELLO, S. L. . Software de Apoio ao Gerenciamento de Filas de Atendimento em Estabelecimentos Bancários. In: 6º Congresso Científico UNIARARAS, 2011, Araras. Anais do 6º Congresso Científico UNIARARAS, 2011. p. 532-534.
