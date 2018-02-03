@@ -23,6 +23,7 @@ description: Machine Learning, Data Science and Python
 
 # List of links in the navigation bar
 navbar-links:
+  Blog: "index"
   Sobre mim: "aboutme"
   #  Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -73,11 +74,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "dihnegretto@gmail.com"
- #  facebook: daattali
   github: diegonegretto
   twitter: Dih_Negretto
+  email: "dihnegretto@gmail.com"
+  rss: true
+  #  facebook: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
