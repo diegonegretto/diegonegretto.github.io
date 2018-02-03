@@ -5,6 +5,8 @@ subtitle: Algumas de minhas pesquisas
 ---
 
 ### 2016
+- **NEGRETTO, D. H.**, Algoritmos de Aprendizado Semi-Supervisionados baseados em Grafos aplicados na Bioinformática / Diego Henrique Negretto. --São José do Rio Preto, 2016. Dissertação (Mestrado) - Universidade Estadual Paulista "Júlio de Mesquita Filho", Instituto de Biociências, Letras e Ciências Exatas.  [Link](https://repositorio.unesp.br/bitstream/handle/11449/138136/negretto_dh_me_sjrp_int.pdf?sequence=4&isAllowed=y)
+
 - **NEGRETTO, D. H.**; BREVE, F. A. ; FERRO, M. ; ANTONIO, E. A. ; BACCI, M. . Classification of mRNA Sequences Coding For Ant Diggestive Enzymes Using the Particle Competition and Cooperation Bioinspired Algorithm. In: III Workshop sobre Insetos Sociais (IUSSI - SecBras), 2016, Rio Claro. Anais do III Workshop sobre Insetos Sociais (IUSSI - SecBras), 2016.
 
 ### 2015
