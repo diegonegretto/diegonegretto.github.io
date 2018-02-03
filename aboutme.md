@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Inigo Montoya. I have the following qualities:
 
-Meu nome é **Diego Henrique Negretto**, sou aluno de **Doutorado em Ciência da Computação e Matemática Computacional**, no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), São Carlos, Brasil. Recebi meu título de** Mestre em Ciência da Computação**, no Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. Também sou **Bacharel em Sistemas de Informação** pela FHO|Uniararas, Araras, Brasil.
+Meu nome é Diego Henrique Negretto, sou aluno de Doutorado em Ciência da Computação e Matemática Computacional, no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), São Carlos, Brasil. Recebi meu título de Mestre em Ciência da Computação, no Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. Também sou Bacharel em Sistemas de Informação pela FHO-Uniararas, Araras, Brasil.
 
 
 ### Interesses de Pesquisa
