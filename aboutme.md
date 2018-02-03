@@ -5,7 +5,7 @@ subtitle: Minha formação, atuação e meus interesses
 ---
 
 <div style="text-align: justify">
-Meu nome é Diego Henrique Negretto, sou aluno de <b>Doutorado em Ciência da Computação e Matemática Computacional</b>, no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), São Carlos, Brasil. Recebi meu título de <b>Mestre em Ciência da Computação</b>, no Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. Também sou <b>Bacharel em Sistemas de Informação</b> pela FHO-Uniararas, Araras, Brasil.</div>
+Meu nome é <b>Diego Henrique Negretto</b>, sou aluno de <b>Doutorado em Ciência da Computação e Matemática Computacional</b>, no Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP), São Carlos, Brasil. Recebi meu título de <b>Mestre em Ciência da Computação</b>, no Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. Também sou <b>Bacharel em Sistemas de Informação</b> pela FHO-Uniararas, Araras, Brasil.</div>
 
 
 ### Interesses de Pesquisa
