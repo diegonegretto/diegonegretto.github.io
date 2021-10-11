@@ -28,8 +28,9 @@ Sou professor da FHO-Uniararas desde o ano de 2016. Leciono disciplinas nos curs
 - Linguagem de Programação Java
 - Estruturas de Dados
 - Orientação a Objetos 
-- Programação para Web (HTML, CSS, JavaScript)
+- Programação para Web (HTML, CSS, JavaScript, PHP)
 - Interface Humano Computador
+- Desenvolvimento de Aplicativos Móveis (Java)
 
 
 ### Tecnologias que domino
