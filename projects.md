@@ -5,9 +5,10 @@ subtitle: Alguns de meus projetos e Orientações
 ---
 
 
-### Orientações
+## Orientações
 
-#### Data Science / Machine Learning
+
+### Data Science / Machine Learning
 MODENEZ, Luiz Pedro Valverde; ROVAI, Carlos Eduardo; NEGRETTO, Diego Henrique. <b>Análise de projetos open-source que utilizam Deep Learning para o reconhecimento de emoções em imagem. </b>2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2020.
 
 CONTINI, Ricardo Galdi; CRUZ, Miguel Botelho Penteado Ribeiro da; NEGRETTO, Diego Henrique. <b>CARACTERIZAÇÃO DAS CIDADES DO ESTADO DE SÃO PAULO COM MAIORES TAXAS DE PREVALÊNCIA DE CASOS DE DENGUE.</b> 2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2020.
@@ -15,7 +16,7 @@ CONTINI, Ricardo Galdi; CRUZ, Miguel Botelho Penteado Ribeiro da; NEGRETTO, Dieg
 OLIVEIRA, Vinícius Estevão de; NEGRETTO, Diego Henrique. <b>COMPARAÇÃO DE ALGORITMOS DE APRENDIZADO DE MÁQUINA EM DADOS DE EVASÃO DE ALUNOS EM UNIVERSIDADE PRIVADA.</b> 2018. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2018.
 
 
-#### Desenvolvimento de Sistemas
+### Desenvolvimento de Sistemas
 ALMEIDA, Felipe Augusto de; COVRE, Víctor Matheus; NEGRETTO, Diego Henrique. <b>Sistema de gestão e agendamento de consultas para clínicas.</b> 2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2020.
 
 SPOLJARIC, Luís Fernando; ZANIBONI, Renê Eduardo; NEGRETTO, Diego Henrique. <b>Software Web para Disponibilização de Dados na Área de Educação do 1º ao 9º Ano dos Municípios do Interior do Estado de São Paulo.</b> 2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto Fho, Araras, 2020.
@@ -39,7 +40,7 @@ APOLINÁRIO, Teilor Willian; DOMINGOS, Mariana Priscila; NEGRETTO, Diego Henriqu
 GENISELLI, João Guilherme Aparecido; NEGRETTO, Diego Henrique. <b>Sistema para Catalogação de Dados Biológicos: Ninhos de Formigas Attini.</b> 2017. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2017.
 
 
-#### Internet das Coisas (IoT)
+### Internet das Coisas (IoT)
 SOUZA, Rodrigo Adalton Azeni de; VICENTE, Lucas Henrique; NEGRETTO, Diego Henrique. <b>Sistema de monitoramento das propriedades do ar em ambientes internos.</b> 2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto Fho, Araras, 2020.
 
 NEVES, Wallace Petrucci; OLIVEIRA, Higor Freitas de; NEGRETTO, Diego Henrique. <b>Desenvolvimento de protótipo para Monitoramento Remoto da Saúde. </b>2019. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2019.
@@ -47,6 +48,6 @@ NEVES, Wallace Petrucci; OLIVEIRA, Higor Freitas de; NEGRETTO, Diego Henrique. <
 MARTINS, Heverton Eduardo; ORTEGA, Luan Carlos; NEGRETTO, Diego Henrique.<b> Central de Monitoramento de Consumo de Energia Elétrica Residencial com Microcontrolador Arduino.</b> 2018. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2018.
 
 
-#### Banco de Dados
+### Banco de Dados
 PEREIRA, Filipe de Morais; PORFIRIO, Giovani Pereira Netto; NEGRETTO, Diego Henrique. <b>Comparação de desempenho entre os sistemas gerenciadores de banco de dados MySQL e MongoDB.</b> 2018. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2018.
 
