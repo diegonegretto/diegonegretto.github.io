@@ -5,8 +5,25 @@ subtitle: Alguns de meus projetos e Orientações
 ---
 
 
-## Orientações
+## Alguns trabalhos Científicos na área de Data Science / Machine Learning
 
+NEGRETTO, D. H.; BREVE, F. A.  ALGORITMOS DE APRENDIZADO SEMI-SUPERVISIONADO BASEADOS EM GRAFOS APLICADOS NA BIOINFORMÁTICA. <b>Dissertação de Mestrado (2016)</b>
+
+NEGRETTO, D. H.; BREVE, F. A. ; FERRO, M. ; ANTONIO, E. A. ; BACCI, M. . Classification of mRNA Sequences Coding For Ant Diggestive Enzymes Using the Particle Competition and Cooperation Bioinspired Algorithm. In: III Workshop sobre Insetos Sociais (IUSSI - SecBras), 2016, Rio Claro. Anais do III Workshop sobre Insetos Sociais (IUSSI - SecBras), 2016.
+
+NEGRETTO, D. H.; BREVE, F. A. . Comparação de Técnicas de Aprendizado de Máquina Semi-Supervisionado na Bioinformática. In: V WPPGCC2015 - Workshop do Programa de Pós-Graduação em Ciência da Computação da UNESP, 2015, Baurú. Anais do V WPPGCC2015 - Workshop do Programa de Pós-Graduação em Ciência da Computação da UNESP, 2015. p. 51-52.
+
+NEGRETTO, D. H.; ANTONIO, E. A. ; FERRO, M. ; BACCI, M. ; BREVE, F. A. . SEMI-SUPERVISED MACHINE LEARNING APPLIED TO MEDICAL DIAGNOSTICS. In: X-Meeting 2015 - 11th International Conference of the AB3C + Brazilian Symposium of Bioinformatics, 2015, São Paulo. Anais do X-Meeting 2015 - 11th International Conference of the AB3C + Brazilian Symposium of Bioinformatics, 2015.
+
+NEGRETTO, D. H.; ANTONIO, E. A. ; BACCI, M. ; FERRO, M. . EVOLVING THE VIRTUAL MUSEUM OF ATTINI ANTS TOWARDS TO FUZZY ONTOLOGY FOR SEMANTIC WEB. In: X-Meeting/BSB 2013 Conference, 2013, Recife. Anais do X-Meeting/BSB 2013 Conference, 2013.
+
+NEGRETTO, D. H.; ANTONIO, E. A. ; BACCI, M. ; FERRO, M. . Desenvolvimento de uma Ontologia para o Banco de Dados do Museu Virtual de Formigas Attini. In: 21º Simpósio Internacional de Iniciação Científica da USP - SIICUSP, 2013, São Carlos. Anais do 21º Simpósio Internacional de Iniciação Científica da USP - SIICUSP, 2013.
+
+
+A listagem completa de meus trabalhos científicos pode ser encontrada em meu [Currículo Lattes](http://lattes.cnpq.br/1462039608256628)
+
+
+## Orientações (em construção)
 
 ### Data Science / Machine Learning
 MODENEZ, Luiz Pedro Valverde; ROVAI, Carlos Eduardo; NEGRETTO, Diego Henrique. <b>Análise de projetos open-source que utilizam Deep Learning para o reconhecimento de emoções em imagem. </b>2020. 20 f. TCC (Graduação) - Curso de Sistemas de Informação, Fundação Hermínio Ometto FHO, Araras, 2020.
