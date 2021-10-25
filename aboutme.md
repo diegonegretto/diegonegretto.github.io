@@ -20,17 +20,18 @@ Meu nome é <b>Diego Henrique Negretto</b>, sou <b>Mestre em Ciência da Computa
 Sou professor da FHO-Uniararas desde o ano de 2016. Leciono disciplinas nos cursos de Sistemas de Informação, Engenharia Núcleo Comun e Engenharia da Computação, bem como, na Pós Graduação em Engenharia de Software e Data Science.
 </div>
 #### Disciplinas que leciono (ou já lecionei)
-- Algoritmos
-- Lógica Computacional
-- Linguagem de Programação Python
-- Linguagem de Programação C/C++ 
-- Linguagem de Programação C#
-- Linguagem de Programação Java
-- Estruturas de Dados
-- Orientação a Objetos 
-- Programação para Web (HTML, CSS, JavaScript, PHP)
-- Interface Humano Computador
-- Desenvolvimento de Aplicativos Móveis (Java)
+- Algoritmos (Graduação)
+- Lógica Computacional (Graduação)
+- Linguagem de Programação Python (Graduação / Pós Graduação)
+- Linguagem de Programação C/C++ (Graduação)
+- Linguagem de Programação C# (Graduação)
+- Linguagem de Programação Java (Graduação)
+- Estruturas de Dados (Graduação)
+- Orientação a Objetos (Graduação) 
+- Programação para Web (HTML, CSS, JavaScript, PHP) (Graduação)
+- Interface Humano Computador (Graduação / Pós Graduação)
+- Desenvolvimento de Aplicativos Móveis (Java) (Graduação)
+- Aprendizado Supervisionado (Pós Graduação)
 
 
 ### Tecnologias que domino
