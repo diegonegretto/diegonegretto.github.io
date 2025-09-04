@@ -5,7 +5,7 @@ subtitle: Alguns de meus projetos e Orientações
 ---
 
 
-## Alguns trabalhos Científicos na área de Data Science / Machine Learning
+## Alguns trabalhos Científicos na área de Data Science / Machine Learning (em construção)
 
 NEGRETTO, D. H.; BREVE, F. A.  <b>ALGORITMOS DE APRENDIZADO SEMI-SUPERVISIONADO BASEADOS EM GRAFOS APLICADOS NA BIOINFORMÁTICA.</b> <b>Dissertação de Mestrado (2016)</b>
 
