@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre o Blog
-subtitle: 🧠 Blog sobre Python, Inteligência Artificial e Data Science
+subtitle: 🧠 Python, Inteligência Artificial e Data Science
 ---
 
 Bem-vindo ao meu blog! 🚀  

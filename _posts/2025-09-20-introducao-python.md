@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introdução à Linguagem de Programação Python!
+title: Introdução à Linguagem de Programação Python! 🐍
 ---
 
 A linguagem **Python** é hoje uma das mais populares no mundo da tecnologia. Criada por Guido van Rossum no início da década de 1990, ela foi projetada com foco em **simplicidade** e **legibilidade do código**, o que a torna ideal tanto para iniciantes quanto para programadores experientes.
