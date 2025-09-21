@@ -1,29 +1,43 @@
 ---
 layout: page
 title: Sobre mim
-subtitle: 🎓 Minha formação, atuação e interesses 
+subtitle: 👋 Olá, eu sou Diego H. Negretto  
 ---
 
-👨‍🏫 Meu nome é **Diego Henrique Negretto**, sou **Mestre em Ciência da Computação** pelo Instituto de Biociências, Letras e Ciências Exatas (IBILCE), da Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP), e **Bacharel em Sistemas de Informação** pela FHO-Araras.  
+🧑‍💻 **Computeiro | Professor | Aspirante a escritor | Nerd**  
+🎓 Mestre em Ciência da Computação (UNESP)  
+👨‍🏫 Professor de Sistemas de Informação na FHO  
 
-📚 Desde **2016**, atuo como **professor na FHO**, lecionando disciplinas nos cursos de **Sistemas de Informação**, **Engenharia (Núcleo Comum e Computação)** e também na **Pós-Graduação em Engenharia de Software e Data Science**.  
+---
 
-🔬 Minha experiência acadêmica e profissional está fortemente ligada ao **ensino** e à **pesquisa** em áreas como:  
-- 🤖 *Machine Learning*  
-- 📊 *Data Science*  
-- ⛏️ *Data Mining*  
-- 🔍 *Pattern Recognition*  
+## 🚀 Sobre mim  
+Sou apaixonado por **tecnologia, ensino e escrita**.  
+Atualmente trabalho como professor universitário, compartilhando conhecimento em **Sistemas de Informação** e explorando aplicações práticas de **Python, Inteligência Artificial e Data Science**.  
 
-💻 Tenho ampla vivência no ensino de **programação**, já tendo ministrado disciplinas em linguagens como:  
-- 🐍 **Python**  
-- ⚙️ **C/C++**  
-- 💠 **C#**  
-- ☕ **Java**  
+Também sou um **aspirante a escritor**, buscando conectar criatividade e ciência em projetos pessoais.  
 
-Além disso, também já lecionei conteúdos relacionados a:  
-- 📂 **Estruturas de Dados**  
-- 🧩 **Orientação a Objetos**  
-- 🌐 **Web Development** (HTML, CSS, JavaScript, PHP)  
-- 🖥️ **Interface Humano-Computador**  
+---
 
-🚀 Atualmente, utilizo principalmente **Python** em meus projetos e pesquisas, mas também possuo experiência com **C/C++**, **C#**, **Java** e bancos de dados como **PostgreSQL**, **MySQL** e **Oracle**. Tenho ainda grande interesse em tecnologias voltadas ao **desenvolvimento web**, explorando frameworks como **Django** e **Flask**.  
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagem principal:** Python 🐍  
+- **Framework favorito:** Django ⚡  
+- **Áreas de interesse:**  
+  - 🤖 Machine Learning  
+  - 📊 Data Science  
+  - 🐍 Python para ciência e aplicações web  
+
+---
+
+## ✍️ Além da Computação  
+Quando não estou programando ou ensinando, gosto de:  
+- 📚 Escrever (contos e romances)  
+- 🎮 Explorar o mundo nerd (RPG, games, literatura fantástica)  
+- 👨‍👩‍👧 Estar com a família e minhas gatas  
+
+---
+
+## 📬 Onde me encontrar  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-negretto-8653a7a2/)  
+- ✉️ **Email:** diegohnegretto@gmail.com  
+
+---
