@@ -4,41 +4,12 @@ title: Sobre mim
 subtitle: Minha formação, atuação e meus interesses
 ---
 
-### (EM CONSTRUÇÃO)
-<!--
-<div style="text-align: justify">
-Meu nome é <b>Diego Henrique Negretto</b>, sou <b>Mestre em Ciência da Computação</b>, pelo Instituto de Biociências, Letras e Ciências Exatas (IBILCE) na Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), Rio Claro, Brasil. Também sou <b>Bacharel em Sistemas de Informação</b> pela FHO-Uniararas, Araras, Brasil.</div>
+<div style="text-align: justify"> Meu nome é <b>Diego Henrique Negretto</b>, sou <b>Mestre em Ciência da Computação</b> pelo Instituto de Biociências, Letras e Ciências Exatas (IBILCE), da Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP), e <b>Bacharel em Sistemas de Informação</b> pela FHO-Araras.
 
-<!--
-### Interesses de Pesquisa
-- Machine Learning
-- Data Science
-- Data Mining
-- Pattern Recognition
+Desde 2016, atuo como professor na FHO, lecionando disciplinas nos cursos de Sistemas de Informação, Engenharia (Núcleo Comum e Computação) e também na Pós-Graduação em Engenharia de Software e Data Science. Minha experiência acadêmica e profissional está fortemente ligada ao ensino e à pesquisa em áreas como <b>Machine Learning</b>, <b>Data Science</b>, <b>Data Mining</b> e <b>Pattern Recognition</b>.
 
+Tenho ampla vivência no ensino de programação, já tendo ministrado disciplinas em linguagens como <b>Python</b>, <b>C/C++</b>, <b>C#</b> e <b>Java</b>, além de áreas relacionadas a <b>Estruturas de Dados</b>, <b>Orientação a Objetos</b>, <b>Web Development</b> (HTML, CSS, JavaScript, PHP) e <b>Interface Humano-Computador</b>.
 
-### Atuação Profissional
-<div style="text-align: justify">
-Sou professor da FHO-Uniararas desde o ano de 2016. Leciono disciplinas nos cursos de Sistemas de Informação, Engenharia Núcleo Comun e Engenharia da Computação, bem como, na Pós Graduação em Engenharia de Software e Data Science.
+Atualmente, utilizo principalmente <b>Python</b> em meus projetos e pesquisas, mas também possuo experiência com <b>C/C++</b>, <b>C#</b>, <b>Java</b> e bancos de dados como <b>Postgresql</b>, <b>MySQL</b> e <b>Oracle</b>. Tenho ainda interesse em tecnologias voltadas ao desenvolvimento <i>web </i> com <b>Django</b> e <b>Flask</b>.
+
 </div>
-#### Disciplinas que leciono (ou já lecionei)
-- Algoritmos (Graduação)
-- Lógica Computacional (Graduação)
-- Linguagem de Programação Python (Graduação / Pós Graduação)
-- Linguagem de Programação C/C++ (Graduação)
-- Linguagem de Programação C# (Graduação)
-- Linguagem de Programação Java (Graduação)
-- Estruturas de Dados (Graduação)
-- Orientação a Objetos (Graduação) 
-- Programação para Web (HTML, CSS, JavaScript, PHP) (Graduação)
-- Interface Humano Computador (Graduação / Pós Graduação)
-- Desenvolvimento de Aplicativos Móveis (Java) (Graduação)
-- Aprendizado Supervisionado (Pós Graduação)
-
-
-### Tecnologias que domino
-<div style="text-align: justify">
-Atualmente, programo mais frequentemente na linguagem <strong>Python</strong>, porém também tenho conhecimento sobre as linguagens <b>R</b>, <b>C/C++</b>, <b>C#</b> e <b>Java</b>, bem como, bancos de dados <b>MySQL</b> e <b>Oracle</b>. Também tenho interesse em tecnologias para desenvolvimento <i>web front-end</i>: <b>HTML 5</b>, <b>CSS</b> (puro e <i>frameworks</i>) e <b>JavaScript</b> (puro e <i>frameworks</i>).
-</div>
-
--->
