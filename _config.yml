@@ -23,9 +23,9 @@ description: 🧠 Python, Inteligência Artificial e Data Science
 
 # List of links in the navigation bar
 navbar-links:
-  #Blog: "index"
-  Sobre o Blog: "aboutblog"
+  #Blog: "index"  
   Sobre mim: "aboutme"
+  Sobre o Blog: "aboutblog"
   #  Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
