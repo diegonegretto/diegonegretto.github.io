@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Sintaxe Básica do Python - Entrada, Saída e Tipos de Dados 💻
+title:  Sintaxe Básica do Python - Entrada, Saída e Tipos de Dados 💻 [Python Básico]
 ---
 
 Depois de instalar o Python e executar seu primeiro programa, é hora de entender os **fundamentos da linguagem**. Neste post, vamos explorar dois pontos essenciais para qualquer iniciante:  
