@@ -39,5 +39,6 @@ Quando não estou programando ou ensinando, gosto de:
 ## 📬 Onde me encontrar  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/diego-negretto-8653a7a2/)  
 - ✉️ **Email:** diegohnegretto@gmail.com  
+- 🖥️ [GitHub](https://github.com/diegonegretto)
 
 ---
