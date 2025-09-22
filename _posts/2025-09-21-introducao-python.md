@@ -105,9 +105,7 @@ Parabéns! 🎉 Você acabou de rodar seu primeiro programa em Python.
 
 ## Conclusão
 
-Python é uma linguagem que equilibra **facilidade de uso** e **poder de desenvolvimento**. Você pode utilizá-la para resolver problemas simples do dia a dia ou para construir sistemas complexos que envolvem inteligência artificial e ciência de dados.
-
-Nos próximos posts, exploraremos juntos conceitos fundamentais da linguagem e avançaremos passo a passo até projetos práticos. 🚀
+Python é uma linguagem que equilibra **facilidade de uso** e **poder de desenvolvimento**. Você pode utilizá-la para resolver problemas simples do dia a dia ou para construir sistemas complexos que envolvem inteligência artificial e ciência de dados.🚀
 
 ---
 
