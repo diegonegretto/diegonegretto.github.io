@@ -22,7 +22,7 @@ Também sou um **aspirante a escritor**, buscando conectar criatividade e ciênc
 - **Linguagem principal:** Python 🐍  
 - **Framework favorito:** Django ⚡  
 - **Áreas de interesse:**  
-  - 🤖 Machine Learning  
+  - 🤖 Inteligência Artificial  
   - 📊 Data Science  
   - 🐍 Python para ciência e aplicações web  
 
@@ -38,7 +38,7 @@ Quando não estou programando ou ensinando, gosto de:
 
 ## 📬 Onde me encontrar  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/diego-negretto-8653a7a2/)  
-- ✉️ **Email:** diegohnegretto@gmail.com  
 - 🖥️ [GitHub](https://github.com/diegonegretto)
+- ✉️ **Email:** diegohnegretto@gmail.com  
 
 ---
