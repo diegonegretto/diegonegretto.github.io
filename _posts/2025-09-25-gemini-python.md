@@ -17,7 +17,6 @@ fazer perguntas para a IA.
 -   Como criar um cliente Python para o Gemini.\
 -   Como interagir com a IA pelo terminal.
 
-![Python + Gemini](/img/Gemini+Python.jpg)
 ------------------------------------------------------------------------
 
 ## 🛠️ Estrutura do Projeto
@@ -87,7 +86,6 @@ Ela recebe a chave da API, conecta ao modelo `gemini-2.5-flash`, envia
 perguntas (prompts) e retorna as respostas.\
 É como se fosse um "**tradutor**" entre o usuário e a IA.
 
-![Gemini 2.5 Flash](/img/google-gemini-flash.jpg)
 ------------------------------------------------------------------------
 
 ## 🎛️ A Aplicação Principal (`main.py`)
