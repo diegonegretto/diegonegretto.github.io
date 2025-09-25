@@ -8,7 +8,6 @@ conecta à API do **Gemini** (Google DeepMind).\
 O objetivo é criar uma aplicação simples que rode no terminal e permita
 fazer perguntas para a IA.
 
-![Python + Gemini](/img/Gemini+Python.jpg)
 ------------------------------------------------------------------------
 
 ## 🎯 O que você vai aprender
@@ -18,6 +17,7 @@ fazer perguntas para a IA.
 -   Como criar um cliente Python para o Gemini.\
 -   Como interagir com a IA pelo terminal.
 
+![Python + Gemini](/img/Gemini+Python.jpg)
 ------------------------------------------------------------------------
 
 ## 🛠️ Estrutura do Projeto
