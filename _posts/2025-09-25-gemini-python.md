@@ -153,7 +153,7 @@ Você aprendeu a:
 -   Criar um **cliente de IA**.
 -   Fazer uma aplicação de linha de comando para interagir com o Gemini.
 
-👉 Possíveis evoluções:
+👉 **Possíveis evoluções:**
 
 -   Criar uma versão **web** (com Flask ou Django).
 -   Construir uma **interface gráfica** (com Tkinter/PyQt).
