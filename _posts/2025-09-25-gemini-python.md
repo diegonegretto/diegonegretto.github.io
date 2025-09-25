@@ -64,6 +64,7 @@ API_KEY="sua_chave_aqui"
 ```
 
 Esse valor é lido pelo programa em tempo de execução.
+
 ⚠️ **Importante**:
 -   Não compartilhe esse arquivo em repositórios públicos.
 -   Sempre use .gitignore para proteger seu .env.
