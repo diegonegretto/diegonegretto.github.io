@@ -108,6 +108,19 @@ O `main.py` é responsável pela interação com o usuário.
 Ele mostra um menu no terminal, onde é possível escolher entre **fazer
 uma pergunta** ou **sair do programa**.
 
+
+```python
+if __name__ == "__main__":
+    load_dotenv()
+    api_key = os.getenv("API_KEY")
+
+    if not api_key:
+        raise ValueError("Defina a variável API_KEY no .env")
+
+    app = Application(api_key=api_key)
+    app.menu()
+```
+
 Antes de rodar o menu, o código faz três coisas importantes:
 
 1.  **Carrega as variáveis de ambiente** com `load_dotenv()`.
