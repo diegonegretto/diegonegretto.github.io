@@ -4,17 +4,18 @@ title:  Criando um Cliente em Python para a API do Gemini 🤖 [IA]
 ---
 
 Neste post vamos aprender a construir um projeto em **Python** que se
-conecta à API do **Gemini** (Google DeepMind).\
+conecta à API do **Gemini** (Google DeepMind).
 O objetivo é criar uma aplicação simples que rode no terminal e permita
 fazer perguntas para a IA.
 
+🖥️ Você pode encontrar o código fonte deste projeto em meu [GitHub](https://github.com/diegonegretto/python_ai)
 ------------------------------------------------------------------------
 
 ## 🎯 O que você vai aprender
 
--   Como organizar um projeto Python que consome APIs.\
--   Como usar variáveis de ambiente para proteger sua chave da API.\
--   Como criar um cliente Python para o Gemini.\
+-   Como organizar um projeto Python que consome APIs.
+-   Como usar variáveis de ambiente para proteger sua chave da API.
+-   Como criar um cliente Python para o Gemini.
 -   Como interagir com a IA pelo terminal.
 
 ------------------------------------------------------------------------
@@ -33,10 +34,10 @@ Nosso projeto tem a seguinte organização:
 
 ## 📦 Instalando Dependências
 
-Todas as bibliotecas estão listadas em `requirements.txt`.\
+Todas as bibliotecas estão listadas em `requirements.txt`.
 As principais são:
 
--   **google-genai** → para acessar o Gemini.\
+-   **google-genai** → para acessar o Gemini.
 -   **python-dotenv** → para carregar variáveis do `.env`.
 
 Instale com:
@@ -56,7 +57,7 @@ A API do Gemini precisa de autenticação. Para isso, criamos um arquivo
 API_KEY="sua_chave_aqui"
 ```
 
-Esse valor é lido pelo programa em tempo de execução.\
+Esse valor é lido pelo programa em tempo de execução.
 ⚠️ Lembre-se: nunca compartilhe essa chave em repositórios públicos.
 
 ------------------------------------------------------------------------
@@ -83,26 +84,26 @@ class PythonAI:
 ```
 
 Ela recebe a chave da API, conecta ao modelo `gemini-2.5-flash`, envia
-perguntas (prompts) e retorna as respostas.\
+perguntas (prompts) e retorna as respostas.
 É como se fosse um "**tradutor**" entre o usuário e a IA.
 
 ------------------------------------------------------------------------
 
 ## 🎛️ A Aplicação Principal (`main.py`)
 
-O `main.py` é responsável pela interação com o usuário.\
+O `main.py` é responsável pela interação com o usuário.
 Ele mostra um menu no terminal, onde é possível escolher entre **fazer
 uma pergunta** ou **sair do programa**.
 
 Antes de rodar o menu, o código faz três coisas importantes:
 
-1.  **Carrega as variáveis de ambiente** com `load_dotenv()`.\
-2.  **Busca a chave da API** usando `os.getenv("API_KEY")`.\
+1.  **Carrega as variáveis de ambiente** com `load_dotenv()`.
+2.  **Busca a chave da API** usando `os.getenv("API_KEY")`.
 3.  **Valida se a chave existe** --- se não existir, o programa exibe um
     erro e não continua.
 
 Somente depois disso o programa cria a aplicação (`Application`) e
-inicia o menu.\
+inicia o menu.
 Esse fluxo garante que só conseguimos interagir com a IA se a chave
 estiver corretamente configurada.
 
@@ -133,11 +134,11 @@ Exemplo prático:
 ## 📌 Conclusão e Próximos Passos
 
 Esse projeto é simples, mas mostra um fluxo completo de integração com a
-API do Gemini.\
+API do Gemini.
 A partir daqui, você pode evoluir para:
 
--   Criar uma versão **web** (Flask/Django).\
--   Desenvolver uma **interface gráfica** (Tkinter/PyQt).\
+-   Criar uma versão **web** (Flask/Django).
+-   Desenvolver uma **interface gráfica** (Tkinter/PyQt).
 -   Conectar a IA com **chatbots para sites ou WhatsApp**.
 
 ------------------------------------------------------------------------
