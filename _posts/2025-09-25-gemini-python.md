@@ -16,10 +16,10 @@ fazer perguntas para a IA.
 
 ## 🎯 O que você vai aprender
 
--   Como organizar um projeto Python que consome APIs.
--   Como usar variáveis de ambiente para proteger sua chave da API.
--   Como criar um cliente Python para o Gemini.
--   Como interagir com a IA pelo terminal.
+-   Como organizar um projeto Python que consome uma API.
+-   Como usar variáveis de ambiente para proteger informações sensíveis (como a chave da API).
+-   Como criar uma classe para centralizar a comunicação com o Gemini.
+-   Como montar um menu simples para interagir com a IA pelo terminal.
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,9 @@ pip install -r requirements.txt
 
 ## 🔑 Configuração da API Key
 
-A API do Gemini precisa de autenticação. Para isso, criamos um arquivo
+Para usar a API, você precisa de uma chave fornecida pelo Google.
+
+Essa chave deve ser armazenada no arquivo .env (nunca diretamente no código!):
 `.env`:
 
 ``` env
@@ -61,7 +63,10 @@ API_KEY="sua_chave_aqui"
 ```
 
 Esse valor é lido pelo programa em tempo de execução.
-⚠️ Lembre-se: nunca compartilhe essa chave em repositórios públicos.
+
+⚠️ Importante:
+-   Não compartilhe esse arquivo em repositórios públicos.
+-   Sempre use .gitignore para proteger seu .env.
 
 ------------------------------------------------------------------------
 
@@ -86,9 +91,12 @@ class PythonAI:
         return response.text
 ```
 
-Ela recebe a chave da API, conecta ao modelo `gemini-2.5-flash`, envia
-perguntas (prompts) e retorna as respostas.
-É como se fosse um "**tradutor**" entre o usuário e a IA.
+### O que está acontecendo aqui?
+
+-   Criamos um cliente (genai.Client) usando nossa chave de API.
+-   Definimos o modelo que vamos usar (gemini-2.5-flash).
+-   No método ask, enviamos a pergunta (prompt) e recebemos a resposta da IA.
+-   Limitamos a resposta a 250 caracteres para não ficar muito longa.
 
 ------------------------------------------------------------------------
 
@@ -136,12 +144,16 @@ Exemplo prático:
 
 ## 📌 Conclusão e Próximos Passos
 
-Esse projeto é simples, mas mostra um fluxo completo de integração com a
-API do Gemini.
-A partir daqui, você pode evoluir para:
+Esse projeto é um **ponto de partida simples**, mas poderoso.
+Você aprendeu a:
+-   Configurar um projeto Python com **variáveis de ambiente**.
+-   Criar um **cliente de IA**.
+-   Fazer uma aplicação de linha de comando para interagir com o Gemini.
 
--   Criar uma versão **web** (Flask/Django).
--   Desenvolver uma **interface gráfica** (Tkinter/PyQt).
--   Conectar a IA com **chatbots para sites ou WhatsApp**.
+👉 Possíveis evoluções:
+
+-   Criar uma versão **web** (com Flask ou Django).
+-   Construir uma **interface gráfica** (com Tkinter/PyQt).
+-   Integrar com **chatbots em sites**.
 
 ------------------------------------------------------------------------
