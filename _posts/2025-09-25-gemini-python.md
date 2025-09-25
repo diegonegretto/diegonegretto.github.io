@@ -8,7 +8,10 @@ conecta à API do **Gemini** (Google DeepMind).
 O objetivo é criar uma aplicação simples que rode no terminal e permita
 fazer perguntas para a IA.
 
-🖥️ Você pode encontrar o código fonte deste projeto em meu [GitHub](https://github.com/diegonegretto/python_ai)
+
+Você pode acessar o código-fonte deste projeto em meu repositório no GitHub. [GitHub](https://github.com/diegonegretto/python_ai) 🖥️ 
+
+
 ------------------------------------------------------------------------
 
 ## 🎯 O que você vai aprender
