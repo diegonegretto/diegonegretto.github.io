@@ -9,7 +9,7 @@ O objetivo é criar uma aplicação simples que rode no terminal e permita
 fazer perguntas para a IA.
 
 
-🖥️ Você pode acessar o código-fonte deste projeto em meu repositório no GitHub. [GitHub](https://github.com/diegonegretto/python_ai) 
+🖥️ Você pode acessar o código-fonte deste projeto em meu repositório no [GitHub](https://github.com/diegonegretto/python_ai) 
 
 
 ------------------------------------------------------------------------
