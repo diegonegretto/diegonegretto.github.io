@@ -21,6 +21,7 @@ fazer perguntas para a IA.
 -   Como criar uma classe para centralizar a comunicação com o Gemini.
 -   Como montar um menu simples para interagir com a IA pelo terminal.
 
+
 ------------------------------------------------------------------------
 
 ## 🛠️ Estrutura do Projeto
@@ -32,6 +33,7 @@ Nosso projeto tem a seguinte organização:
      ├── main.py             # Aplicação principal (menu no terminal)
      ├── requirements.txt    # Dependências
      └── .env                # Variável de ambiente com a API Key
+
 
 ------------------------------------------------------------------------
 
@@ -54,7 +56,6 @@ pip install -r requirements.txt
 ## 🔑 Configuração da API Key
 
 Para usar a API, você precisa de uma chave fornecida pelo Google.
-
 Essa chave deve ser armazenada no arquivo .env (nunca diretamente no código!):
 `.env`:
 
@@ -63,8 +64,7 @@ API_KEY="sua_chave_aqui"
 ```
 
 Esse valor é lido pelo programa em tempo de execução.
-
-⚠️ Importante:
+⚠️ **Importante**:
 -   Não compartilhe esse arquivo em repositórios públicos.
 -   Sempre use .gitignore para proteger seu .env.
 
@@ -91,12 +91,13 @@ class PythonAI:
         return response.text
 ```
 
-### O que está acontecendo aqui?
 
+### O que está acontecendo aqui?
 -   Criamos um cliente (genai.Client) usando nossa chave de API.
 -   Definimos o modelo que vamos usar (gemini-2.5-flash).
 -   No método ask, enviamos a pergunta (prompt) e recebemos a resposta da IA.
 -   Limitamos a resposta a 250 caracteres para não ficar muito longa.
+
 
 ------------------------------------------------------------------------
 
@@ -117,6 +118,7 @@ Somente depois disso o programa cria a aplicação (`Application`) e
 inicia o menu.
 Esse fluxo garante que só conseguimos interagir com a IA se a chave
 estiver corretamente configurada.
+
 
 ------------------------------------------------------------------------
 
@@ -140,6 +142,7 @@ Exemplo prático:
     Faça uma pergunta: Qual a capital da França?
     Resposta: Paris.
 
+
 ------------------------------------------------------------------------
 
 ## 📌 Conclusão e Próximos Passos
@@ -155,5 +158,6 @@ Você aprendeu a:
 -   Criar uma versão **web** (com Flask ou Django).
 -   Construir uma **interface gráfica** (com Tkinter/PyQt).
 -   Integrar com **chatbots em sites**.
+
 
 ------------------------------------------------------------------------
