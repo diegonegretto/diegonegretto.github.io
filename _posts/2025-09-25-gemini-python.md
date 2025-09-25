@@ -108,6 +108,30 @@ O `main.py` é responsável pela interação com o usuário.
 Ele mostra um menu no terminal, onde é possível escolher entre **fazer
 uma pergunta** ou **sair do programa**.
 
+```python
+if __name__ == "__main__":
+    load_dotenv()
+    api_key = os.getenv("API_KEY")
+
+    if not api_key:
+        raise ValueError("Defina a variável API_KEY no .env")
+
+    app = Application(api_key=api_key)
+    app.menu()
+```
+
+Antes de rodar o menu, o código faz três coisas importantes:
+
+1.  **Carrega as variáveis de ambiente** com `load_dotenv()`.
+2.  **Busca a chave da API** usando `os.getenv("API_KEY")`.
+3.  **Valida se a chave existe** --- se não existir, o programa exibe um
+    erro e não continua.
+
+Somente depois disso o programa cria a aplicação (`Application`) e
+inicia o menu.
+Esse fluxo garante que só conseguimos interagir com a IA se a chave
+estiver corretamente configurada.
+
 
 ```python
 class Application:
@@ -145,32 +169,6 @@ class Application:
 
             print("=========================")
 ```
-
-Antes de rodar o menu, o código faz três coisas importantes:
-
-1.  **Carrega as variáveis de ambiente** com `load_dotenv()`.
-2.  **Busca a chave da API** usando `os.getenv("API_KEY")`.
-3.  **Valida se a chave existe** --- se não existir, o programa exibe um
-    erro e não continua.
-
-
-```python
-if __name__ == "__main__":
-    load_dotenv()
-    api_key = os.getenv("API_KEY")
-
-    if not api_key:
-        raise ValueError("Defina a variável API_KEY no .env")
-
-    app = Application(api_key=api_key)
-    app.menu()
-```
-
-Somente depois disso o programa cria a aplicação (`Application`) e
-inicia o menu.
-Esse fluxo garante que só conseguimos interagir com a IA se a chave
-estiver corretamente configurada.
-
 
 ------------------------------------------------------------------------
 
